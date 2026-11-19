@@ -43,3 +43,6 @@ capacitor in the signal path when sending an audio signal to a speaker or earpho
 Sine vs Square vs Sawtooth: they are all the same pitch at a different tone. The sine wave is the smoothest, the square is like buzzing and the sawtooth is the brightest and harshest. 
 
 We need a capacitor to block the 1.65 DC offset that the DAC sits at so we ca control and only pass the changing audio signal, and the earphones get a wave centered around 0V. Without it you waste power and mighr damage the device. 
+
+**Q8: Submit a picture of that sine wave on the oscilloscope**
+**Answer:** https://drive.google.com/file/d/1_Jpb3H-Tm2Sl0qNnQjvoYpu2wC5IZP3U/view?usp=sharing
