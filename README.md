@@ -46,3 +46,6 @@ We need a capacitor to block the 1.65 DC offset that the DAC sits at so we ca co
 
 **Q8: Submit a picture of that sine wave on the oscilloscope**
 **Answer:** https://drive.google.com/file/d/1_Jpb3H-Tm2Sl0qNnQjvoYpu2wC5IZP3U/view?usp=sharing
+
+**Q9:Submit a short video demonstration of your working Theremin along with your source code.**
+**Answer:** https://drive.google.com/file/d/1il8D8SFqs0Eznw0B41mAXpqwGKZJxDfa/view?usp=sharing
